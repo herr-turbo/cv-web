@@ -381,12 +381,12 @@ strong {
     background-image: url(../../img/js_64x64.svg);
 }
 
-.img-jquery {
-    background-image: url(../../img/jquery_64x64_blanc.svg);
+.img-angular {
+    background-image: url(../../img/angular_64x64_blanc.svg);
 }
 
-.img-jquery:active, .img-jquery:hover {
-    background-image: url(../../img/jquery_64x64.svg);
+.img-angular:active, .img-angular:hover {
+    background-image: url(../../img/angular_64x64.svg);
 }
 
 .img-php {
@@ -397,12 +397,12 @@ strong {
     background-image: url(../../img/php_64x64.svg);
 }
 
-.img-symfony {
-    background-image: url(../../img/symfony_64x64_blanc.svg);
+.img-node {
+    background-image: url(../../img/nodejs_64x64_blanc.svg);
 }
 
-.img-symfony:active, .img-symfony:hover {
-    background-image: url(../../img/symfony_64x64.svg);
+.img-node:active, .img-node:hover {
+    background-image: url(../../img/nodejs_64x64.svg);
 }
 
 .img-mysql {
