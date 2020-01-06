@@ -178,7 +178,7 @@ strong {
     /* visibility: hidden; */
     top: 0rem;
     left: -100vw;
-    width: 100vw;
+    width: 100%;
     padding-top: 1.5rem;
 }
 
@@ -395,6 +395,14 @@ strong {
 
 .img-php:active, .img-php:hover {
     background-image: url(../../img/php_64x64.svg);
+}
+
+.img-git {
+    background-image: url(../../img/git_64x64_blanc.svg);
+}
+
+.img-git:active, .img-git:hover {
+    background-image: url(../../img/git_64x64.svg);
 }
 
 .img-node {
@@ -762,6 +770,7 @@ footer address {
 @media screen and (min-width: 992px) {
     .img-bg {
         background-image: url('../../img/background_1200.jpg');
+        /* background-position: bottom;  */
     }
     .img-work {
         background-image: url('../../img/work_1200.jpg');
