@@ -164,6 +164,7 @@ strong {
 
 .nav-contact>a {
     margin-left: 2rem;
+    text-decoration:none;
 }
 
 .nav-main {
@@ -203,6 +204,15 @@ strong {
 .nav-contact>a {
     opacity: 0.3;
 }
+
+
+.nav-contact>a.lang-link{
+    font-weight: 700;
+    font-size: 80%;
+    opacity: 0.7;
+}
+
+
 
 .nav-main-a:hover, .nav-main-a:active {
     background: var(--teal-dark);
@@ -619,6 +629,7 @@ footer address {
 #btn-top:hover .icon-arrow--up::after {
     background-color: white;
 }
+
 
 /*  ===============================================
                 MEDIA QUERIES
